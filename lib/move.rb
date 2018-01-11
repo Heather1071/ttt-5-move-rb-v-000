@@ -19,6 +19,7 @@ end
 end
 
 def move(board, index, "X")
+  move(board, 0, "X")
 
 end
 
