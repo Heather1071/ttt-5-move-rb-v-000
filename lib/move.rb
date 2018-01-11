@@ -18,7 +18,8 @@ end
     user_input.to_i - 1
 end
 
-def move(board, 0, X)
+
+  
 
 
 end
