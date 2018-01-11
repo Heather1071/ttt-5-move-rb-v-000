@@ -1,5 +1,9 @@
 #!/usr/bin/env ruby
 
 require_relative '../lib/move.rb'
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+def greeting(greeting)
+  puts "Welcome to Tic Tac Toe!"# Code your CLI Here
 
-# Code your CLI Here
+end
+gets "Welcome to Tic Tac Toe!"
